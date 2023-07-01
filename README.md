@@ -1,7 +1,7 @@
 # RepBucket: Skills, Bucket List, and Activities Tracker
 
 ## Description:
-(Full-Stack, Django, PostgreSQL, React.js) | A web-based coding references and bug tracking application.
+(Full-Stack, Django REST Framework, PostgreSQL, React.js) | A web-based coding references and bug tracking application.
 
 ## Deployment Link:
 https://code-seonbi-v2.herokuapp.com/
