@@ -1,7 +1,7 @@
 # RepBucket Version 2: Skills, Bucket List, and Activities Tracker
 
 ## Description:
-(Full-Stack, Django REST Framework, PostgreSQL, React.js) | A web-based coding references and bug tracking application.
+(Full-Stack, Django REST Framework, PostgreSQL, React.js) | A skills, bucket list, and activities tracking application.
 
 ## Deployment Link:
 
